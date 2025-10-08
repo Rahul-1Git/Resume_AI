@@ -1,7 +1,10 @@
 # 🧠 AI Resume Analyzer - Backend
 
-This is the backend of the **AI Resume Analyzer App**, built using **Node.js**, **Express**, **MongoDB**, **Cloudinary**, and **Google Gemini AI API**.  
-It handles **authentication**, **file uploads**, and **AI-powered resume analysis**.
+This is the backend of the **AI Resume Analyzer App**,
+built using **Node.js**, **Express**, **MongoDB**, 
+**Cloudinary**, and **Google Gemini AI API**.  
+It handles **authentication**, **file uploads**,
+and **AI-powered resume analysis**.
 
 ---
 
